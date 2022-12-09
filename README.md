@@ -1,5 +1,4 @@
-# Deepchain
-This is a blockchain wallet , coded in java and using bitcoin intergration.
+# Deepchain is an ai powerd blockchain wallet ,  coded in java and using machine learning and bitcoin intergration cardano isnt surported due to technical an security glitches.
 
 below is the xml summary 
 
